@@ -1,3 +1,6 @@
+转载：https://www.cnblogs.com/houkai/p/6347408.html
+
+整理下Eigen库的教程，参考：http://eigen.tuxfamily.org/dox/index.html
 # 简介
 
 Eigen是C++中可以用来调用并进行矩阵计算的一个库，简单了说它就是一个c++版本的matlab包。
